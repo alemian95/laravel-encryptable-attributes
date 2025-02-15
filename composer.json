@@ -1,0 +1,19 @@
+{
+    "name": "alemian95/laravel-encryptable-attributes",
+    "description": "Laravel Package to effortlessy encrypt and decrypt from database model attributes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alemian95\\LaravelEncryptableAttributes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alessandro Mian",
+            "email": "alessandromian95@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^11.42"
+    }
+}
